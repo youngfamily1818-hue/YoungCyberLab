@@ -1,16 +1,40 @@
-# Resume
+# Resume Portfolio
 
-This folder contains my current cybersecurity resume and future versions as my skills and experience continue to grow.
+This folder contains my current resume and highlights from my education, certifications, and technical experience.
 
-## Highlights
+## Education
 
-- B.S. Information Systems and Cybersecurity (4.0 GPA)
+**Columbia Southern University**
+- B.S. Information Systems and Cybersecurity
+- Expected Graduation: 2027
+- GPA: 4.0
+
+## Certifications
+
 - Google Cybersecurity Professional Certificate
 - Cisco Networking Academy Ethical Hacker
-- USCC Eastern Region Boot Camp 2026
-- Autonomous Systems Operations Experience
-- Linux, Networking, SIEM, and Digital Forensics Training
+- ISC2 Certified in Cybersecurity (CC) – In Progress
+- U.S. Cyber Challenge Eastern Region Boot Camp 2026
 
-## Current Resume
+## Technical Experience
 
-See Brandonn_Young_Resume.pdf
+- Linux Administration
+- SIEM Monitoring
+- Network Security
+- Vulnerability Assessment
+- Malware Analysis
+- Web Application Security
+- Digital Forensics
+
+## Professional Background
+
+- Autonomous Systems Operator – Kodiak Robotics
+- Autonomous Systems Technician – Waymo (Transdev)
+- Hazmat Logistics Specialist – Pilot Flying J
+
+## Featured Labs
+
+- TryHackMe
+- Hack The Box
+- DVWA
+- Network Vulnerability Assessments
